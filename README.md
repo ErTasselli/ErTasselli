@@ -2,27 +2,21 @@
 
 <p>Welcome to my page! </br> I'm Andrea Tasselli, Computer Science student from  <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> <b>Rome, Italy</b>, passionate about web development and programming. </p>
 
-<div align="center">
-  <h3>🚀 About Me</h3>
-</div>
+<h3>🚀 About Me</h3>
 
-<p align="center">
-  <i>
-    🎓 Throughout my academic journey, I have explored various programming languages and paradigms, from object-oriented programming to designing efficient algorithms. 
-    <br><br>
-    💡 I enjoy experimenting with different languages to understand their strengths and weaknesses, refining my approach to problem-solving and writing clean, efficient code.
-  </i>
+<p>
+  🎓 Throughout my academic journey, I have explored various programming languages and paradigms, from object-oriented programming to designing efficient algorithms. 
 </p>
 
-<p align="center">
-  <i>
-    📈 Beyond computer science, I am passionate about <b>stock trading</b>, an interest that allows me to combine my analytical skills with observation and study of financial markets.
-  </i>
+<p>
+  💡 I enjoy experimenting with different languages to understand their strengths and weaknesses, refining my approach to problem-solving and writing clean, efficient code.
 </p>
 
-<div align="center">
-  <h3>⚙️ Things I code with</h3>
-</div>
+<p>
+  📈 Beyond computer science, I am passionate about <b>stock trading</b>, an interest that allows me to combine my analytical skills with observation and study of financial markets.
+</p>
+
+<h3>⚙️ Things I code with</h3>
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
