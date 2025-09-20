@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm Andrea Tasselli, Computer Science student from <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> <b>Rome, Italy</b>, passionate about web development and programming. </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBxOWxuanVmeDRpZDI3aG92ZnNtcWU1MTMwOGNhOXQzbjdiYzYzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9582DNuQppxC/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" alt="Coding" width="500"/>
 </p>
 
 <h3>Things I code with</h3>
