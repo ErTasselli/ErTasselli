@@ -2,9 +2,9 @@
 
 <p>Welcome to my page! </br> I'm Andrea Tasselli, Computer Science student from <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> <b>Rome, Italy</b>, passionate about web development and programming. </p>
 
-<p>Throughout my academic journey, I have explored various programming languages and paradigms, from object-oriented programming to designing efficient algorithms. I enjoy experimenting with different languages to understand their strengths and weaknesses, refining my approach to problem-solving and writing clean, efficient code.</p>
-
-<p>Beyond computer science, I am passionate about <b>stock trading</b>, an interest that allows me to combine my analytical skills with observation and study of financial markets.</p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZxdzBiaHZuejIzdmVzZnR6ajNsZTAzOXdkcmY4NzlkNWN4NnVsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" alt="Coding" width="500"/>
+</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -25,10 +25,25 @@
 
 ## 🌐 Visit My Website
 
-Check out my personal website: **[andreatasselli.it](https://andreatasselli.it)**
+<p align="center">
+  <a href="https://andreatasselli.it" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Website-andreatasselli.it-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreatasselli&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ## 📫 Let's Connect!
 
-Feel free to reach out if you want to collaborate on projects, discuss technology, or talk about financial markets!
+<p align="center">
+  <a href="https://linkedin.com/in/andreatasselli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/andreatasselli" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 ---
