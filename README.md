@@ -23,6 +23,8 @@
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 </p>
 
+---
+
 <p align="center">
   <a href="https://andreatasselli.it" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Website-andreatasselli.it-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
