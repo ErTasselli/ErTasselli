@@ -2,10 +2,6 @@
 
 <p>Welcome to my page! </br> I'm Andrea Tasselli, Computer Science student from  <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> <b>Rome, Italy</b>, passionate about web development and programming. </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/u4CY9BW4umAfu/giphy.gif" alt="Coding" width="500"/>
-</p>
-
 <div align="center">
   <h3>🚀 About Me</h3>
 </div>
