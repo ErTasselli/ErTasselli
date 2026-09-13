@@ -1,6 +1,6 @@
-<h1>Hey 👋, It's <a href="https://andreatasselli.it/">ErTasselli</a></h1>
+<h1>Hey 👋, It's <a href="https://andreatasselli.it/](https://ertasselli.github.io/andreatasselli/">ErTasselli</a></h1>
 
-<p>Welcome to my page! </br> I'm Andrea Tasselli, Computer Science student from  <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> <b>Rome, Italy</b>, passionate about web development and programming. </p>
+<p>Welcome to my page! </br> I'm Andrea Tasselli, Cloud Infrastructure Intern at Ericsson from  <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> <b>Rome, Italy</b>, passionate about web development and programming. </p>
 
 <h3>🚀 About Me</h3>
 
